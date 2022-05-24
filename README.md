@@ -1,4 +1,4 @@
 ### AttackIQ with Love.
-![alt text](attackiq.png)
+![alt text](iq.png)
 
 
