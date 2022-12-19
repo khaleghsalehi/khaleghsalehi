@@ -1,10 +1,11 @@
 My current active projects:
 
-### AttackIQ with Love.
+### AttackIQ
 ![alt text](iq.png)
-Intrusion Detection & Prevention for ICS/SCADA.
 
-### Xray.
+Industrial Firewall, Intrusion Detection & Prevention for ICS/SCADA. (Owned by Safe Instrument)
+
+### Xray
 ![alt text](xray-logo.png)
-Shodan Like a Security Search Engine
 
+Open Source  Security Search Engine. (https://github.com/khaleghsalehi/xray)
