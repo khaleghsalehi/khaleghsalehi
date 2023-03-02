@@ -5,7 +5,3 @@ My current active projects:
 
 Industrial Firewall, Intrusion Detection & Prevention for ICS/SCADA. (Owned by Safe Instrument)
 
-### Xray
-![alt text](xray-logo.png)
-
-Open Source  Security Search Engine. (https://github.com/khaleghsalehi/xray)
